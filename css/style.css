@@ -81,3 +81,7 @@ html, body {
     font-size: 12px;
     margin-top: 10px;
 }
+
+.modal .modal-btn-group .modal-btn:hover {
+    background-color:#087266;
+}
