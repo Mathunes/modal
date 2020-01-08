@@ -33,3 +33,19 @@ html, body {
     padding: 10px;
     background-color: #004256;
 }
+
+.modal .modal-title {
+    position: relative;
+}
+
+.modal .modal-title h3 {
+    margin: 10px 0;
+}
+
+.modal .modal-title::after {
+    content: "";
+    width: 100%;
+    position: absolute;
+    height: 2px;
+    background-color: #dfd8d3;
+}
