@@ -21,6 +21,7 @@ html, body {
     text-transform: uppercase;
     padding: 10px;
     transition: all 0.3s;
+    border: 1px solid #dfd8d3;
 }
 
 .modal-btn:hover {
@@ -82,6 +83,7 @@ html, body {
     font-size: 12px;
     margin-top: 10px;
     transition: all 0.3s;
+    border: 1px solid #087266;
 }
 
 .modal .modal-btn-group .modal-btn:hover {
