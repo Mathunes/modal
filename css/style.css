@@ -27,3 +27,9 @@ html, body {
     background-color: #dfd8d3;
     color: 	#004256;
 }
+
+.modal {
+    max-width: 350px;
+    padding: 10px;
+    background-color: #004256;
+}
