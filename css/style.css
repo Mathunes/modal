@@ -50,3 +50,11 @@ html, body {
     height: 2px;
     background-color: #dfd8d3;
 }
+
+.modal .modal-btn-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+/* .modal .modal-btn-group .modal- */
