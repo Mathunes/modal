@@ -13,7 +13,7 @@ html, body {
     align-items: center;
 }
 
-.container .btn-modal {
+.modal-btn {
     border: 0;
     background-color:#ece7e4;
     color: #004256;
@@ -22,7 +22,7 @@ html, body {
     padding: 10px;
 }
 
-.container .btn-modal:hover {
+.modal-btn:hover {
     cursor: pointer;
     background-color: #dfd8d3;
     color: 	#004256;
@@ -57,4 +57,9 @@ html, body {
     justify-content: flex-end;
 }
 
-/* .modal .modal-btn-group .modal- */
+.modal .modal-btn-group .modal-btn {
+    background-color:#097a6c;
+    color: #dfd8d3;
+    font-size: 12px;
+    margin-top: 10px;
+}
