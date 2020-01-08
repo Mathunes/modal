@@ -45,6 +45,7 @@ html, body {
     color: #dfd8d3;
     margin: 10px auto;
     position: absolute;
+    top: -100000px;
 }
 
 .modal .modal-title, .modal-content {
