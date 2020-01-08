@@ -20,6 +20,7 @@ html, body {
     font-size: 20px;
     text-transform: uppercase;
     padding: 10px;
+    transition: all 0.3s;
 }
 
 .modal-btn:hover {
@@ -80,6 +81,7 @@ html, body {
     color: #dfd8d3;
     font-size: 12px;
     margin-top: 10px;
+    transition: all 0.3s;
 }
 
 .modal .modal-btn-group .modal-btn:hover {
