@@ -32,7 +32,8 @@ html, body {
     max-width: 350px;
     padding: 10px;
     background-color: #004256;
-    color: #dfd8d3
+    color: #dfd8d3;
+    margin: 0 auto;
 }
 
 .modal .modal-title, .modal-content {
