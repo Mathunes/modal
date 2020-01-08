@@ -48,7 +48,7 @@ html, body {
     color: #dfd8d3;
     margin: 10px auto;
     position: absolute;
-    transition: all .5s;
+    transition: all .6s;
     top: -1000px;
 }
 
