@@ -32,9 +32,10 @@ html, body {
     max-width: 350px;
     padding: 10px;
     background-color: #004256;
+    color: #dfd8d3
 }
 
-.modal .modal-title {
+.modal .modal-title, .modal-content {
     position: relative;
 }
 
@@ -42,7 +43,7 @@ html, body {
     margin: 10px 0;
 }
 
-.modal .modal-title::after {
+.modal .modal-title::after, .modal-content::after {
     content: "";
     width: 100%;
     position: absolute;
